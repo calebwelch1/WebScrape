@@ -1,0 +1,24 @@
+{
+  "name": "WebScrape",
+  "version": "1.0.0",
+  "description": "",
+  "main": "scrape.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/calebwelch1/WebScrape.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/calebwelch1/WebScrape/issues"
+  },
+  "homepage": "https://github.com/calebwelch1/WebScrape#readme",
+  "dependencies": {
+    "express": "^4.17.1",
+    "puppeteer": "^5.2.0"
+  }
+}
